@@ -1,0 +1,7 @@
+# Python requirements
+# we mostly use Python standard library, except:
+pyreadline3==3.5.4
+
+# For development and testing:
+pytest>=6.0
+pytest-cov>=2.10

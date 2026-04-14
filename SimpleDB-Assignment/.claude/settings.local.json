@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -B -m pytest tests/test_executor/test_hash_join.py -v)"
+    ]
+  }
+}
